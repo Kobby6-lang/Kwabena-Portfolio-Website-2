@@ -409,14 +409,14 @@ footer
     gap: 1em;
 }
 
-.col-right .social-icons i
+.col-right .social-icons a i
 {
-    font-size: 2em;
+    font-size: 1em;
     transition: 0.2s ease-in-out;
     cursor: pointer;
 }
 
-.social-icons i:hover 
+.col-right .social-icons a:hover i
 {
     color: white;
 }
