@@ -23,9 +23,6 @@ menu.onclick = () =>
             lastScrollTop = scrollTop;
         });
     });
-    document.getElementById("submitBtn").onclick = function() {
-        window.location.href = "mailto:example@example.com?subject=Hello&body=I wanted to get in touch!";
-    };
         
 
     
