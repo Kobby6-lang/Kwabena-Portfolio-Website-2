@@ -324,15 +324,6 @@ form
     gap: 2em;
 }
 
-input,
-select,
-textarea
-{
-    padding: 1.4rem;
-    background: transparent;
-    border: 1px solid b;
-}
-
 form .input-box
 {
     display: flex;
@@ -547,3 +538,4 @@ footer
         align-items: baseline;
     }
 }
+
