@@ -14,7 +14,7 @@ menu.onclick = () =>
     
             if (scrollTop > lastScrollTop && scrollTop > 0) {
                 // Scrolling down and not at the top - hide the navbar
-                nav.style.top = "-80px"; // Adjust the value based on your navbar height
+                nav.style.top = "-900px"; // Adjust the value based on your navbar height
             } else {
                 // Scrolling up - show the navbar
                 nav.style.top = "0";
